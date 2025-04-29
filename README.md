@@ -13,6 +13,7 @@ Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en Gi
 - [EleutherAI](https://github.com/EleutherAI)
 - [Together Computer](https://github.com/togethercomputer)
 - [Hugging Face](https://github.com/huggingface)
+- [DeepMind](https://github.com/deepmind) – Investigación avanzada en IA.
 
 ---
 
@@ -28,9 +29,28 @@ Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en Gi
 - [The Algorithms](https://github.com/TheAlgorithms)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [FreeCodeCamp](https://github.com/freeCodeCamp)
-
+- [MDN Web Docs](https://developer.mozilla.org/) – Documentación oficial para desarrolladores web.
+- [Stack Overflow](https://stackoverflow.com/) – Preguntas y respuestas sobre programación.
+- [W3Schools](https://www.w3schools.com/) – Tutoriales de tecnologías web (HTML, CSS, JS).
 
 ---
+
+## 💻 Herramientas de Desarrollo
+
+- [GitHub](https://github.com/) – Plataforma para proyectos y código fuente.
+- [GitLab](https://about.gitlab.com/) – Alternativa a GitHub, enfocado en DevOps.
+- [VS Code](https://code.visualstudio.com/) – Editor de código con muchas extensiones útiles.
+
+---
+
+## 📊 Datos y Visualización
+
+- [Kaggle](https://www.kaggle.com/) – Competencias, datasets y notebooks.
+- [Data.gov](https://www.data.gov/) – Portal de datos abiertos del gobierno de EE.UU.
+- [Tableau Public](https://public.tableau.com/) – Plataforma para crear y compartir visualizaciones de datos.
+
+---
+
 ## 📈 Trading Algorítmico y Finanzas Cuantitativas
 
 - [QuantConnect](https://github.com/QuantConnect)
@@ -41,12 +61,12 @@ Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en Gi
 - [Zipline](https://github.com/quantopian/zipline)
 - [TA-Lib](https://github.com/mrjbq7/ta-lib)
 
-
 ---
 
 ## 📚 Explorando más temas próximamente...
 
 _(Espacio reservado para futuras categorías como Ciberseguridad, Cloud, Bases de Datos, UX, etc.)_
+
 
 ---
 
