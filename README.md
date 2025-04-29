@@ -1,3 +1,67 @@
+# 👋 ¡Bienvenido!
+
+Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en GitHub.
+
+---
+
+## 🤖 Inteligencia Artificial y Modelos de Lenguaje
+
+- [OpenAI](https://github.com/openai)
+- [Mistral AI](https://github.com/mistralai)
+- [Anthropic](https://github.com/anthropics)
+- [Cohere for AI](https://github.com/cohere-ai)
+- [EleutherAI](https://github.com/EleutherAI)
+- [Together Computer](https://github.com/togethercomputer)
+- [Hugging Face](https://github.com/huggingface)
+
+---
+
+## 💻 Programación y Desarrollo
+
+- [The Algorithms](https://github.com/TheAlgorithms)
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [FreeCodeCamp](https://github.com/freeCodeCamp)
+
+---
+## 📈 Trading Algorítmico y Finanzas Cuantitativas
+
+- [QuantConnect](https://github.com/QuantConnect)
+- [Backtrader](https://github.com/mementum/backtrader)
+- [Freqtrade](https://github.com/freqtrade/freqtrade)
+- [ccxt](https://github.com/ccxt/ccxt)
+- [Jesse AI](https://github.com/jesse-ai/jesse)
+- [Zipline](https://github.com/quantopian/zipline)
+- [TA-Lib](https://github.com/mrjbq7/ta-lib)
+
+
+---
+
+## 📚 Explorando más temas próximamente...
+
+_(Espacio reservado para futuras categorías como Ciberseguridad, Cloud, Bases de Datos, UX, etc.)_
+
+---
+
+✍️ _Actualizado por bsanti – [@ankipanki99](https://github.com/ankipanki99)_  
+🗂 _Actualizado periódicamente._
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
 ## Hi there 👋
 
 <!--
