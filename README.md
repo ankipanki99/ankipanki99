@@ -16,11 +16,19 @@ Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en Gi
 
 ---
 
+## 📊 Modelos de Datos y Protocolos
+
+- [MPD (Model Protocol Definition)](https://github.com/mpd-org) – Estándares para protocolos de modelos.
+- [Model Context Protocol](https://github.com/modelcontext/protocol) – Protocolo para compartir contexto entre aplicaciones y modelos.
+
+---
+
 ## 💻 Programación y Desarrollo
 
 - [The Algorithms](https://github.com/TheAlgorithms)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [FreeCodeCamp](https://github.com/freeCodeCamp)
+
 
 ---
 ## 📈 Trading Algorítmico y Finanzas Cuantitativas
