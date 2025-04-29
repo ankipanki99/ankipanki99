@@ -29,8 +29,10 @@ Accesos rápidos a organizaciones clave organizadas por categoría, con enlaces 
 | Organización | GitHub | Sitio Web | Descripción |
 |--------------|--------|-----------|-------------|
 | Model Context Protocol | [github.com/modelcontextprotocol](https://github.com/modelcontextprotocol) | [modelcontextprotocol.io](https://modelcontextprotocol.io) | Protocolo estándar para compartir contexto entre aplicaciones y modelos de IA. Útil para desarrolladores que quieren mejorar la comunicación entre diferentes sistemas de IA y aplicaciones. |
+| MCP.so | | [mcp.so](https://mcp.so/) | |
 | MPAI (Moving Picture, Audio and Data Coding) | [github.com/mpai-org](https://github.com/mpai-org) | [mpai.community](https://mpai.community) | Estándares para codificación de datos audiovisuales e IA. Útil para aplicaciones de procesamiento multimedia. |
 | AI2 (Semantic Scholar) | [github.com/allenai](https://github.com/allenai) | [allenai.org](https://allenai.org) | Instituto Allen para IA, desarrolla herramientas para búsqueda semántica y procesamiento de texto científico. |
+
 
 ## 💻 Programación y Desarrollo
 
