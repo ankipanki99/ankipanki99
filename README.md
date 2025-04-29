@@ -8,12 +8,12 @@ Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en Gi
 
 - [OpenAI](https://github.com/openai)
 - [Mistral AI](https://github.com/mistralai)
-- [Anthropic](https://github.com/anthropics)
+- [Anthropic](https://github.com/anthropics) – Creadores de Claude.
 - [Cohere for AI](https://github.com/cohere-ai)
 - [EleutherAI](https://github.com/EleutherAI)
 - [Together Computer](https://github.com/togethercomputer)
 - [Hugging Face](https://github.com/huggingface)
-- [DeepMind](https://github.com/deepmind) – Investigación avanzada en IA.
+- [DeepMind](https://github.com/deepmind)
 
 ---
 
@@ -29,25 +29,25 @@ Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en Gi
 - [The Algorithms](https://github.com/TheAlgorithms)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [FreeCodeCamp](https://github.com/freeCodeCamp)
-- [MDN Web Docs](https://developer.mozilla.org/) – Documentación oficial para desarrolladores web.
-- [Stack Overflow](https://stackoverflow.com/) – Preguntas y respuestas sobre programación.
-- [W3Schools](https://www.w3schools.com/) – Tutoriales de tecnologías web (HTML, CSS, JS).
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [W3Schools](https://www.w3schools.com/)
 
 ---
 
 ## 💻 Herramientas de Desarrollo
 
-- [GitHub](https://github.com/) – Plataforma para proyectos y código fuente.
-- [GitLab](https://about.gitlab.com/) – Alternativa a GitHub, enfocado en DevOps.
-- [VS Code](https://code.visualstudio.com/) – Editor de código con muchas extensiones útiles.
+- [GitHub](https://github.com/)
+- [GitLab](https://about.gitlab.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 ---
 
 ## 📊 Datos y Visualización
 
-- [Kaggle](https://www.kaggle.com/) – Competencias, datasets y notebooks.
-- [Data.gov](https://www.data.gov/) – Portal de datos abiertos del gobierno de EE.UU.
-- [Tableau Public](https://public.tableau.com/) – Plataforma para crear y compartir visualizaciones de datos.
+- [Kaggle](https://www.kaggle.com/)
+- [Data.gov](https://www.data.gov/)
+- [Tableau Public](https://public.tableau.com/)
 
 ---
 
@@ -66,6 +66,8 @@ Accesos rápidos a organizaciones clave que sigo y consulto frecuentemente en Gi
 ## 📚 Explorando más temas próximamente...
 
 _(Espacio reservado para futuras categorías como Ciberseguridad, Cloud, Bases de Datos, UX, etc.)_
+
+
 
 
 
