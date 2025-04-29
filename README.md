@@ -14,6 +14,16 @@ Accesos rápidos a organizaciones clave organizadas por categoría, con enlaces 
 | Hugging Face | [github.com/huggingface](https://github.com/huggingface) | [huggingface.co](https://huggingface.co) | Plataforma colaborativa para compartir modelos, datasets y aplicaciones de IA. |
 | Google DeepMind | [github.com/google-deepmind](https://github.com/google-deepmind) | [deepmind.google](https://deepmind.google) | División de investigación de IA de Google, creadores de AlphaGo, AlphaFold y Gemini. |
 
+## 🛠️ Plataformas de Desarrollo de IA
+
+| Organización | GitHub | Sitio Web | Descripción |
+|--------------|--------|-----------|-------------|
+| OpenAI Studio | - | [platform.openai.com](https://platform.openai.com) | Plataforma para desarrollar aplicaciones con los modelos GPT de OpenAI, incluyendo playground para pruebas y creación de asistentes personalizados. |
+| Google AI Studio | - | [aistudio.google.com](https://aistudio.google.com) | Entorno para experimentar con los modelos Gemini de Google, crear prototipos y desarrollar aplicaciones de IA. |
+| Anthropic Claude | - | [claude.ai](https://claude.ai) | Plataforma para interactuar con Claude y desarrollar aplicaciones usando la API de Anthropic. |
+| Vertex AI | [github.com/GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) | [cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai) | Plataforma de ML de Google Cloud para entrenar, ajustar e implementar modelos de IA a escala. |
+| Azure AI Studio | - | [ai.azure.com](https://ai.azure.com) | Suite de herramientas de Microsoft para desarrollo de IA que incluye modelos de OpenAI, creación de flujos de trabajo y despliegue en Azure. |
+
 ## 📊 Modelos de Datos y Protocolos
 
 | Organización | GitHub | Sitio Web | Descripción |
@@ -60,20 +70,6 @@ Accesos rápidos a organizaciones clave organizadas por categoría, con enlaces 
 | Jesse AI | [github.com/jesse-ai/jesse](https://github.com/jesse-ai/jesse) | [jesse.trade](https://jesse.trade) | Framework avanzado en Python para backtesting y trading de criptomonedas. |
 | Zipline | [github.com/quantopian/zipline](https://github.com/quantopian/zipline) | - | Motor de backtesting en Python, anteriormente usado por Quantopian. |
 | TA-Lib | [github.com/mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) | [ta-lib.org](https://ta-lib.org) | Biblioteca de análisis técnico con más de 150 indicadores como RSI, MACD y Bollinger Bands. |
-
----
-
-## 📚 Explorando más temas próximamente...
-
-_(Espacio reservado para futuras categorías como Ciberseguridad, Cloud, Bases de Datos, UX, etc.)_
-
-
-
-
-
-
-
-
 
 
 
